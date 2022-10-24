@@ -18,7 +18,7 @@
 * [ALLHerbs](https://old.tcmsp-e.com/browse.php?qc=herbs)
 
 ## Packages
-### rdkit
+### [rdkit](https://github.com/rdkit/rdkit)
 
 #### 分子子结构的删除、替换与切割
 * https://www.codenong.com/cs105835399/
