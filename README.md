@@ -1,5 +1,7 @@
 # Partial Knowledge of Molecular Design
 
+Partial Tips of Molecular Design
+
 ## Dataset
 ### Molecule 
 
