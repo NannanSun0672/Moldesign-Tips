@@ -4,10 +4,15 @@
 
 >> Molecule
 
-    * [DUD-E](http://dude.docking.org/), [BindingDB-IBM dataset], [Human dataset]((https://github.com/masashitsubaki/CPI_prediction/tree/master/dataset/human)) and 
+    * [DUD-E](http://dude.docking.org/)
+    
+    * [BindingDB-IBM dataset](https://github.com/IBM/InterpretableDTIP)
+    
+    * [Human dataset](https://github.com/masashitsubaki/CPI_prediction/tree/master/dataset/human)
+    
 >> Protein 
 
-    protein 3D structure.
+    protein 3D structure
 
 1. RDKit|分子子结构的删除、替换与切割
 
